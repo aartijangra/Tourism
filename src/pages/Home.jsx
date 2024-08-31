@@ -34,7 +34,7 @@ const Home = () => {
               <span className="text-[3rem]">Welcome,</span>
               <span className="text-[2rem]"> to</span>
               <h1 className="text-[5rem] sm:ml-[25px] text-center font-[Agbalumo]">
-                Bharat <span id="samarkand">Yatra</span>
+                Bharat <span id="samarkand">Explore</span>
               </h1>
             </div>
             <div className="flex justify-center items-center sm:gap-[12rem] sm:h-[5.9rem] h-[11rem] sm:flex-row flex-col gap-[20px] ">
@@ -67,7 +67,7 @@ const Home = () => {
             width: "100%",
           }}
         >
-          <p>&copy; 2024 Bharat Yatra. All rights reserved.</p>
+          <p>&copy; 2024 Bharat Explore. All rights reserved.</p>
           <p>Contact Us:1234567892</p>
         </footer>
       </div>
